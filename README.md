@@ -36,7 +36,7 @@ Start the application:
 npm start
 
 Open in browser:
-http://localhost:3000
+http://localhost:3001
 
 📁 Project Structure
 bubble-sort-visualizer/
@@ -53,7 +53,7 @@ bubble-sort-visualizer/
 
 Build the project:
 npm run build
-Open https://app.netlify.com
+Open https://bubble-sor.netlify.app/
 
 📊 How Bubble Sort Works
 Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order.
